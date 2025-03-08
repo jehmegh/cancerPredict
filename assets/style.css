@@ -1,7 +1,7 @@
 .css-j5r0tf {
     padding: 1rem;
     border-radius: 0.5rem;
-    background-color: #7E99AB;
+    background-color: #7e4a95;
   }
   
   .diagnosis {
@@ -17,3 +17,11 @@
   .diagnosis.malicious {
     background-color: #ff4b4b
   }
+
+  .logo {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 100px;  
+    height: auto;
+}
